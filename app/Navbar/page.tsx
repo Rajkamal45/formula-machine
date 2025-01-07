@@ -39,7 +39,7 @@ export default function Navbar() {
           </Link>
         </li>
         <li>
-          <Link href="#" className="hover:text-yellow-400 transition-colors">
+          <Link href="/courseSellingPage" className="hover:text-yellow-400 transition-colors">
             Courses
           </Link>
         </li>
